@@ -1,0 +1,96 @@
+# Audio Classification using CNN
+
+## Frameworks & Libraries
+- Python
+- PyTorch
+- Librosa
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Dataset
+- Google Speech Commands Dataset
+- Dataset structure:
+  GoogleSpeechCommands/
+  │
+  ├── bed/
+  ├── bird/
+  ├── cat/
+  ├── dog/
+  ├── down/
+  ├── eight/
+  ├── five/
+  ├── four/
+  ├── go/
+  ├── happy/
+  ├── house/
+  ├── left/
+  ├── marvin/
+  ├── nine/
+  ├── no/
+  ├── off/
+  ├── on/
+  ├── one/
+  ├── right/
+  ├── seven/
+  ├── sheila/
+  ├── six/
+  ├── stop/
+  ├── three/
+  ├── tree/
+  ├── two/
+  ├── up/
+  ├── wow/
+  ├── yes/
+  └── zero/
+
+## Concepts
+- Audio Classification using Deep Learning
+- Speech Command Recognition
+- Digital Audio Processing
+- Feature Extraction
+- Mel Spectrogram
+- Log-Mel Spectrogram
+- Audio Normalization
+- Fixed-Length Audio Processing
+- Train/Test Split
+- Convolutional Neural Networks (CNN)
+- Feature Maps
+- Convolution
+- ReLU Activation
+- Max Pooling
+- Flatten Layer
+- Dropout Regularization
+- Fully Connected Layer
+- Multi-Class Classification
+- Cross Entropy Loss
+- Adam Optimizer
+- Forward Propagation
+- Backpropagation
+- Feature Learning
+- Model Evaluation
+- Accuracy
+- Confusion Matrix
+- Loss Curve
+- Accuracy Curve
+- Confidence Score Prediction
+- Model Checkpointing
+
+## Learning Outcomes
+- Applying deep learning to audio classification tasks
+- Building a custom audio dataset using Librosa
+- Automatically extracting labels from folder names
+- Loading and preprocessing WAV audio files
+- Resampling audio to a target sampling rate
+- Converting raw audio into CNN-compatible Mel-Spectrograms
+- Normalizing spectrogram features
+- Preparing audio data for deep learning models
+- Designing a CNN for audio classification
+- Training a CNN models on audio data using PyTorch
+- Evaluating model performance on unseen data
+- Interpreting Confusion Matrix results
+- Analyzing training and validation curves
+- Saving and loading the best-performing model
+- Performing predictions on unseen audio samples
+- Reporting prediction confidence scores
+- Building an end-to-end speech command classification pipeline
