@@ -11,38 +11,38 @@
 ## Dataset
 - Google Speech Commands Dataset
 - Dataset structure:
--- GoogleSpeechCommands/
--- │
--- ├── bed/
--- ├── bird/
--- ├── cat/
--- ├── dog/
--- ├── down/
--- ├── eight/
--- ├── five/
--- ├── four/
--- ├── go/
--- ├── happy/
--- ├── house/
--- ├── left/
--- ├── marvin/
--- ├── nine/
--- ├── no/
--- ├── off/
--- ├── on/
--- ├── one/
--- ├── right/
--- ├── seven/
--- ├── sheila/
--- ├── six/
--- ├── stop/
--- ├── three/
--- ├── tree/
--- ├── two/
--- ├── up/
--- ├── wow/
--- ├── yes/
--- └── zero/
+ - GoogleSpeechCommands/
+ - │
+ - ├── bed/
+ - ├── bird/
+ - ├── cat/
+ - ├── dog/
+ - ├── down/
+ - ├── eight/
+ - ├── five/
+ - ├── four/
+ - ├── go/
+ - ├── happy/
+ - ├── house/
+ - ├── left/
+ - ├── marvin/
+ - ├── nine/
+ - ├── no/
+ - ├── off/
+ - ├── on/
+ - ├── one/
+ - ├── right/
+ - ├── seven/
+ - ├── sheila/
+ - ├── six/
+ - ├── stop/
+ - ├── three/
+ - ├── tree/
+ - ├── two/
+ - ├── up/
+ - ├── wow/
+ - ├── yes/
+ - └── zero/
 
 ## Concepts
 - Audio Classification using Deep Learning
